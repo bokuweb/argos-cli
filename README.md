@@ -1,5 +1,7 @@
 # argos-cli
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/argos-ci/argos-cli.svg)](https://greenkeeper.io/)
+
 > Argos command line interface.
 
 [![npm version](https://img.shields.io/npm/v/argos-cli.svg?style=flat-square)](https://www.npmjs.com/package/argos-cli)
